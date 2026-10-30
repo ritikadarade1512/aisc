@@ -3,7 +3,7 @@
  * Cache-First Offline-Ready Strategy with GitHub Pages Subdirectory Support
  */
 
-const CACHE_NAME = 'aisc-hub-v1';
+const CACHE_NAME = 'aisc-hub-v2';
 
 // Relative assets list (relative to service worker location)
 const CORE_ASSETS = [
