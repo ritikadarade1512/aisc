@@ -23,7 +23,8 @@
     { id: 5, title: 'Fuzzy Logic', category: 'Fuzzy Systems' },
     { id: 6, title: 'Genetic Algorithm & Simulated Annealing', category: 'Optimization' },
     { id: 7, title: 'K-Means Clustering (Unsupervised)', category: 'Machine Learning' },
-    { id: 8, title: 'Single-Layer Perceptron', category: 'Neural Networks' }
+    { id: 8, title: 'Single-Layer Perceptron', category: 'Neural Networks' },
+    { id: 9, title: 'Multi-Layer Perceptron (MLP) – Student Performance', category: 'Deep Learning' }
   ];
 
   // DOM Elements
