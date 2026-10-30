@@ -1,0 +1,19 @@
+{
+  "name": "AI Practical Hub",
+  "short_name": "AISC",
+  "description": "Offline-First AI Practical Search Engine & Download Hub",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "assets/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
